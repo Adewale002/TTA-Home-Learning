@@ -11,11 +11,11 @@ jokes=int("Hello! what is your favorite number?")
 
 # and then tells them a joke based on the number. You should use a minimum of 3 jokes.
 
-iffavNum ==50
+IffavNum ==50
 
 print(" Why is mosquto making lion cry?!" )
 
-eliffavNum >50
+EliffavNum >50
 
 print("three fish are in a tank ? one asks the others?''how do you drive this thing" )
 
